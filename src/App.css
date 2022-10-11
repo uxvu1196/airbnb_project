@@ -1,0 +1,12 @@
+.cards-list {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 20px;
+    width: 600px;
+    overflow-x: auto;
+    /* white-space: nowrap;  */
+}
+
+section {
+    padding: 20px;
+}
